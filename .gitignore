@@ -1,0 +1,21 @@
+# Godot 4 generated files
+.godot/
+*.import
+export.cfg
+
+# Mono / C#
+.mono/
+data_*/
+
+# Imported assets
+*.translation
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
